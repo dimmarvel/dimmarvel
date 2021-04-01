@@ -7,7 +7,7 @@ My name is Dmitry, i'm a C/C++ software engineer. I'm from Belarus, living in Vi
 ![Editor](https://img.shields.io/badge/Editor-Clion-42aaff?style=flat-square&logo=jetbrains&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/Code-C++-42aaff?style=flat-square&logo=C%2b%2b&logoColor=ffffff)
 ![C](https://img.shields.io/badge/Code-C-42aaff?style=flat-square&logo=C&logoColor=ffffff)
-![Cmake](https://img.shields.io/badge/Cmake-42aaff?style=flat-square&logo=cmake&logoColor=ffffff)
+![Cmake](https://img.shields.io/badge/Build-Cmake-42aaff?style=flat-square&logo=cmake&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/Git-Git-42aaff?style=flat-square&logo=git&logoColor=ffffff)
 
 ### Сontacts
