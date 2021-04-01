@@ -1,16 +1,16 @@
-### Hi there 👋
+## I'm C/C++ software engeneer
 
-<!--
-**dimmarvel/dimmarvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies & Tools
+![Linux](https://img.shields.io/badge/OS-Linux-42aaff?style=flat-square&logo=linux&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/OS-Windows-42aaff?style=flat-square&logo=Windows&logoColor=ffffff)
+![Editor](https://img.shields.io/badge/Editor-Clion-42aaff?style=flat-square&logo=jetbrains&logoColor=ffffff)
+![C++](https://img.shields.io/badge/Code-C++-42aaff?style=flat-square&logo=C%2b%2b&logoColor=ffffff)
+![C](https://img.shields.io/badge/Code-C-42aaff?style=flat-square&logo=C&logoColor=ffffff)
+![Cmake](https://img.shields.io/badge/Cmake-42aaff?style=flat-square&logo=cmake&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-Git-42aaff?style=flat-square&logo=git&logoColor=ffffff)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Сontacts
+[![Linkedin](https://img.shields.io/badge/-Linkedin-42aaff?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dmitry-matyukhov-94a438185/)
+[![Vkontakte](https://img.shields.io/badge/-ВК-42aaff?style=flat-square&logo=Vk&logoColor=ffffff)](https://vk.com/yadefault)
+[![Instagram](https://img.shields.io/badge/-Instagram-42aaff?style=flat-square&logo=Instagram&logoColor=ffffff)](https://www.instagram.com/lbsmart/)
+[![Telegram](https://img.shields.io/badge/-Telegram-42aaff?style=flat-square&logo=Telegram&logoColor=ffffff)](https://t.me/yadefaults)
