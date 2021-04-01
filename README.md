@@ -1,4 +1,5 @@
-## I'm C/C++ software engeneer
+## About me
+My name is Dmitry, i'm a C/C++ software engineer. I'm from Belarus, living in Vitebsk and currently working at [LACIT (ICOL) IT Company](https://lacit.net/).
 
 ### Technologies & Tools
 ![Linux](https://img.shields.io/badge/OS-Linux-42aaff?style=flat-square&logo=linux&logoColor=ffffff)
@@ -14,3 +15,6 @@
 [![Vkontakte](https://img.shields.io/badge/-ВК-42aaff?style=flat-square&logo=Vk&logoColor=ffffff)](https://vk.com/yadefault)
 [![Instagram](https://img.shields.io/badge/-Instagram-42aaff?style=flat-square&logo=Instagram&logoColor=ffffff)](https://www.instagram.com/lbsmart/)
 [![Telegram](https://img.shields.io/badge/-Telegram-42aaff?style=flat-square&logo=Telegram&logoColor=ffffff)](https://t.me/yadefaults)
+
+### GitHub Stats
+![dimmarvel GitHub stats](https://github-readme-stats.vercel.app/api?username=dimmarvel&hide=contribs,prs,issues&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimmarvel&layout=compact&theme=dark)](https://github.com/dimmarvel/github-readme-stats)
