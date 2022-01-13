@@ -1,5 +1,5 @@
 ## About me
-My name is Dmitry, i'm a C/C++ software engineer. I'm from Belarus, living in Vitebsk and currently working at [LACIT (ICOL) IT Company](https://lacit.net/).
+My name is Dmitry, i'm a C/C++ software engineer. I'm from Belarus, living in Vitebsk and currently working at [PixelPlex](https://pixelplex.by/).
 
 My [gitlab projects link](https://gitlab.com/dimmarvel)
 
