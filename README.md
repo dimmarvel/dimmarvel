@@ -1,7 +1,7 @@
 ## About me
 My name is Dmitry, i'm a C/C++ software engineer. I'm from Belarus, living in Vitebsk and currently working at [PixelPlex](https://pixelplex.by/).
 
-My [knowledge link](https://github.com/dimmarvel/education)
+[CLICK FOR NAVIGATION PAGE](https://github.com/dimmarvel/education)
 
 ### Technologies & Tools
 ![Linux](https://img.shields.io/badge/OS-Linux-42aaff?style=flat-square&logo=linux&logoColor=ffffff)
