@@ -1,5 +1,5 @@
 ## About me
-My name is Dmitry, i'm a C/C++ software engineer. I'm from Belarus, living in Vitebsk and currently working at [PixelPlex](https://pixelplex.by/).
+My name is Dmitry, i'm a C/C++ software engineer. I'm from Belarus, living in Minsk and currently working at [PixelPlex](https://pixelplex.by/).
 
 [CLICK FOR NAVIGATION PAGE](https://github.com/dimmarvel/education)
 
